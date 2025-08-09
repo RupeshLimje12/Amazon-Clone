@@ -1,14 +1,17 @@
 # Amazon-Clone
 
 **Purpose of the Project -** 
+
 This project was created for learning purposes only to improve my front-end development skills and practice building responsive layouts.
 
 **Amazon Clone (Frontend) -**
+
 A responsive **Amazon clone** built using **HTML and CSS** for practice purposes.  
 This project replicates the basic UI of Amazon's e-commerce platform, focusing on layout, styling, and interactive components.
 
 **Project Link -**
-**Website Link -** file:///C:/Users/rupes/OneDrive/Desktop/Rupesh%20Learning/Rupesh%20web_development/Learn_CSS/Day29_Amazon_project/index.html
+
+**Website Link -** http://127.0.0.1:5500/index.html
 **Github Link -** https://github.com/RupeshLimje12/Amazon-Clone
 
 **Problem Statement -**
