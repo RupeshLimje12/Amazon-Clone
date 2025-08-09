@@ -12,13 +12,16 @@ This project replicates the basic UI of Amazon's e-commerce platform, focusing o
 **Project Link -**
 
 **Website Link -** http://127.0.0.1:5500/index.html
+
 **Github Link -** https://github.com/RupeshLimje12/Amazon-Clone
 
 **Problem Statement -**
+
 E-commerce websites like Amazon have complex user interfaces that require responsive design, intuitive navigation, and clear product presentation.  
 As a front-end developer, practicing by building such a UI clone helps in understanding **HTML structure** and **CSS styling** in real-world scenarios.
 
 **Problem Description -**
+
 The challenge was to create a **front-end clone** of the Amazon website that:
 - Looks visually similar to the real Amazon website
 - Works across different devices and screen sizes
